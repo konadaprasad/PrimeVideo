@@ -1,0 +1,52 @@
+.main-container {
+  background-color: #000000;
+  padding-bottom: 20px;
+  width: 100%;
+}
+.image {
+  height: 25vh;
+  width: 100%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  padding: 30px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.slider-container {
+  background-color: transparent;
+  border-radius: 10px;
+}
+.thumb-img {
+  height: 250px;
+  width: 300px;
+}
+.inner-cont {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.icon {
+}
+.video-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  border: none;
+  border-width: 0px;
+  background-color: transparent;
+  border-width: none;
+  text-align: end;
+}
